@@ -5,6 +5,7 @@ This is a first pre-release. Source-code etc will be added the comming weeks.
 WabiForth is copyright J.J. Hoekstra 2022 and licensed for free use under AGPL-3.0.
 
 Using wabiForth is fairly easy:
+
 	add adequate cooling-solution to your Raspberry 3B+ (see manual)
 	check if you added adequate cooling, if not: DO NOT CONTINUE (really!!)
     copy all files from wabiForthFiles on a micro sd-card (FAT32)
