@@ -7,7 +7,6 @@ WabiForth is copyright J.J. Hoekstra 2022 and licensed for free use under AGPL-3
 Using wabiForth is fairly easy:
 	add adequate cooling-solution to your Raspberry 3B+ (see manual)
 	check if you added adequate cooling, if not: DO NOT CONTINUE (really!!)
-	
     copy all files from wabiForthFiles on a micro sd-card (FAT32)
     put the sd-card in a Raspberry 3B+
     connect a serial (UART) connection to pin 8 (TX) and pin 10 (RCV)
