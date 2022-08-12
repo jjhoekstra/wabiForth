@@ -1,0 +1,1 @@
+Forth:wabiForth version:0.1a screen:848x480 color:32b sound:on usb:off copyright:JJHoekstra-2017-Leeuwarden (all rights reserved)
