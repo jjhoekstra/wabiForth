@@ -17,4 +17,4 @@ Using wabiForth is fairly easy:
     
 WabiForth replies in 3 seconds on the UART connection and in 5 seconds on the HDMI connector.
 
-In the user-manual you will more info.
+In the user-manual you will find a lot more info.
