@@ -1,0 +1,1 @@
+Forth:wabiPi4 for version see BOOTSCREEN screensize:1024x768 color:32b sound:on copyright:J.J.Hoekstra-2023-Leeuwarden (all rights reserved)
