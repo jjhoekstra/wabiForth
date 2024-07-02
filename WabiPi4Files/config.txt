@@ -1,26 +1,12 @@
 force_turbo=1
 
-#uart_2ndstage=1
-
-core_freq=400
-core_freq_max=400
-core_freq_min=400
-
 gpu_mem=32
 
+# use old interrupts
+#enable_gic=0
+
 # this makes sure that no device_tree is used
-#device_tree=
-
-# sparen tijd
-disable_poe_fan=1
-force_eeprom_read=0
-
-uart1=on
-uart0=off
-
-dtoverlay=disable-bt
-#dtoverlay=uart1
-
+device_tree=
 
 #hdmi_safe=1
 hdmi_force_hotplug=1
@@ -51,9 +37,12 @@ kernel=uwabiPi4.img
 
 #disable_commandline_tags=1
 
-#arm_freq_min=100
-#arm_freq_max=2000
+arm_freq_min=100
+arm_freq_max=2000
+#arm_freq=1600
+#arm_freq=1700
 arm_freq=1800
 
 #gpu_freq=500
-
+core_freq=400
+sdram_freq=600 - loopt maar is NIET sneller vwb sieve en scherm
